@@ -2,7 +2,7 @@
 
 
 ## 项目结构
-
+```
 fastapi_ad/
 ├── app/
 │   ├── api/                  # API 路由
@@ -40,7 +40,7 @@ fastapi_ad/
 ├── .env                      # 环境变量文件
 ├── requirements.txt          # 项目依赖
 └── README.md
-
+```
 
 
 
